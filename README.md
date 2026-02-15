@@ -58,8 +58,8 @@ This project aims to:
 ---
 
 ## 📸 Project Screenshots
-(<img width="1328" height="744" alt="Screenshot 2026-02-15 152023" src="https://github.com/user-attachments/assets/7aa8abb3-c1ea-4f00-bef2-fd84ff83f5aa" />
-)
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/bcd37b0e-388e-43ed-b61d-a294da89bf02" />
+
 
 ---
 
@@ -81,4 +81,4 @@ This project aims to:
 ## 👨‍💻 Author
 [Avinash]  
 Aspiring Data Analyst | Power BI Developer  
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: (https://www.linkedin.com/in/avinash-v-8321832a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
